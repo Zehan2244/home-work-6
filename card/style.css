@@ -1,0 +1,30 @@
+.center{
+    text-align: center;
+}
+.lol{
+    background-color: blueviolet;
+    color: white;
+    width: 200px;
+    
+}
+.hre{
+    text-decoration: none;
+    color: black;
+}
+.pay{
+    color: orangered;
+    font-size: 20px;
+}
+.full{
+    background-color: antiquewhite;
+    display: inline-block;
+    
+    
+}
+.discount{
+    text-decoration: line-through;
+}
+.all{
+    margin: auto;
+    width: fit-content;
+}
